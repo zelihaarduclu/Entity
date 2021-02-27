@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xNOvubFg4DZZ3S30e5bLnPB8biySkK8QU1eRkHaZwktrB0eIPoGRxCHwTAF50K5vcUaeSgRYMDp5TrReTD5HSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZELİHA ARDUÇLU\\Source\\Repos\\MyFinalProject\\Bussiness\\Bussiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZELİHA ARDUÇLU\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ZELİHA ARDUÇLU\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
